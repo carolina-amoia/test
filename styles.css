@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.logo-marvel{height: 20%;
+width:20%;}
+
+.nav-link,.nav-item{color: aqua !important;
+}
+
+.amarillo{background-color: yellow;}
+.verde{background-color: green;}
+.rosa {background-color: pink;}
